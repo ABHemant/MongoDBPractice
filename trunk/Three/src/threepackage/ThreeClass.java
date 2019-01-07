@@ -6,6 +6,7 @@ public class ThreeClass {
 		// TODO Auto-generated method stub
 
 		String x="aaaa";
+		System.out.println(x);
 		
 	}
 
